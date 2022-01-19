@@ -1,11 +1,11 @@
-# C# Console Applications App01 to App05
+# C#Unit 16 object oriented programming 
 | Author | Details |
 | ---- | ---- |
-**Name**: | Student Name  |
-**Student ID**: | 12345678 |
-**Course:** | Computing |
-**Module**: | CO453     |
-**Started**: | January 2021 |    
+**Name**: | Oliver Plummer  |
+**Student ID**: | 100175003|
+**Course:** |  btec level 3 national extended diploma in compuer science |
+**Module**: | Unit 16     | 
+**Started**: | January 2022 |    
 
 1. App01: Distance Converter
 2. App02: BMI Calculator
