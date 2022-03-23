@@ -32,7 +32,7 @@ namespace ConsoleAppProject.App01
 
         private void inputMiles()
         {
-            Console.Write("please enter the number of miles > ");
+            Console.Write("Please enter the number of miles > ");
             string value = Console.ReadLine();
             miles = Convert.ToDouble(value);
         }
